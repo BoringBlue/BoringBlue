@@ -1,6 +1,6 @@
 ### Yoo, I'm BoringBlue 👋
 
- <img src="https://github.com/BoringBlue/BoringBlue/main/assets/img/sakura_rain.gif" width="850" height="150" style="border-radius:10px"/><br/>
+ <img src="https://github.com/BoringBlue/BoringBlue/tree/main/assets/img/sakura_rain.gif" width="850" height="150" style="border-radius:10px"/><br/>
 
 >哈喽，我是BoringBlue！是一名phper，但其他技术领域也略懂一二 🤔，喜欢新奇事物，请多多指教！☺️
 
