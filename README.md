@@ -17,7 +17,7 @@
 
 ### :zap: Label:
 
-`PHP`  `后端`  `全栈`  `coder`  `程序媛` 
+`PHP`  `后端`  `全栈`  `coder`  `程序媛` `天秤座`
 
 <!-- ![BoringBlue's GitHub stats](https://github-readme-stats.vercel.app/api?username=BoringBlue&theme=radical&show_icons=true) -->
 ![BoringBlue](https://github-readme-stats.vercel.app/api/top-langs/?username=BoringBlue&hide=html&layout=compact&theme=radical)
