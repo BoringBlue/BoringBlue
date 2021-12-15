@@ -8,7 +8,7 @@
 
 >皆さん！こんにちは、Boring Blueです！PHP側のプログラマー、また他のプログラム分野も多少知っています。新しく面白くの物が大好きです！よろしくね☺️
 
-- :hammer: Focusing on PHP / MySQL / Linux / CSS / jQuery / Vue
+- :hammer: Focusing on PHP / Python / MySQL / Linux / CSS / jQuery / Vue
 - :star: Live for love and be a man of value.
 - :clock10: Start working
 - :clock1: :sleeping:
